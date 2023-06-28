@@ -16,7 +16,7 @@
 url    : "https://lolli1486.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme" # the subpath of your site, e.g. /blog
 
-title      : ADMI 2023
+title      : ADMI
 email      : "treasurer@admiusa.org" #this is also the email contact forms will go to
 description: "This site is for the use of ADMI and it's participants"
 author     : The Data Miners
