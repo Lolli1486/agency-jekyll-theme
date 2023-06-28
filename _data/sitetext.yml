@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our ADMI 2024!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Register
+    buttonlink: "#registration"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  registration:
+    title: "Registration"
+    text: "Welcome to ADMI 2024! We are excited for you to join us in Atlanta!"
+    section: registration
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
