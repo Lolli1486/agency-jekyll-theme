@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our ADMI 2024!
+    title: Welcome to ADMI!
     text: It's Nice To Meet You
     button: Register
     buttonlink: "#registration"
 
-  registration:
-    title: "Registration"
+  services:
+    title: "Services"
     text: "Welcome to ADMI 2024! We are excited for you to join us in Atlanta!"
-    section: registration
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -31,23 +31,23 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  blog:
+    title: "Blog"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    section: Blog
+    closebutton: "Close Blog"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Explore Our History!"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        year: "1995-2011"
+        desc: "The Association of Computer Science Departments at Minority Institutions (ADMI) was established as a national organization dedicated to exploring and providing remedies to the educational issues in computer/information science and computer engineering that confront minority institutions of higher education."
+        image: assests/img/team/3.jpg
         alt:
       - title: "An Agency is Born"
         year: "March 2011"
