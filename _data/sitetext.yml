@@ -16,20 +16,23 @@ en: &DEFAULT_EN
     button: See More
     buttonlink: "#registration"
 
-  services:
-    title: "Registration"
-    text: "Welcome to ADMI 2024! We are excited for you to join us in Atlanta!"
-    section: services
+Resources:
+    title: "Resources"
+    text: "Lorem ipsum"
+    section: resources
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Student Resources"
+        desc: "Important Links"
+        icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
+      - title: "Presentations"
+        desc: "Student/teacher presentations."
+        icon: fa-solid fa-person-chalkboard
+      - title: "PDF's"
+        desc: "All PDF's posted by staff."
+        icon: fa-solid fa-file-pdf
+     - title: "Teacher Resources"
+       desc: "Import dates/information."
+       icon: fa-solid fa-school
 
   blog:
     title: "Blog"
