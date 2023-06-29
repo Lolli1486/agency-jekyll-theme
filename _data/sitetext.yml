@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   resources:
   title: "Resources"
-  text: "Lorem ipsum"
+  text: "Explore more"
   section: resources
   list:
     - title: "Student Resources"
