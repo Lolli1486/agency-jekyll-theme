@@ -27,8 +27,8 @@ Resources:
       - title: "Presentations"
         desc: "Student/teacher presentations."
         icon: fa-solid fa-person-chalkboard
-      - title: "PDF's"
-        desc: "All PDF's posted by staff."
+      - title: "PDFs"
+        desc: "All PDFs posted by staff."
         icon: fa-solid fa-file-pdf
      - title: "Teacher Resources"
        desc: "Import dates/information."
