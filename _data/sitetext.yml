@@ -16,7 +16,23 @@ en: &DEFAULT_EN
     button: See More
     buttonlink: "#registration"
 
-
+Resources:
+    title: "Resources"
+    text: "Lorem ipsum"
+    section: resources
+    list:
+      - title: "Student Resources"
+        desc: "Important Links"
+        icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
+      - title: "Presentations"
+        desc: "Student/teacher presentations."
+        icon: fas fa-person-chalkboard
+      - title: "PDFs"
+        desc: "All PDFs posted by staff."
+        icon: fas fa-file-pdf
+     - title: "Teacher Resources"
+       desc: "Import dates/information."
+       icon: fas fa-school
 
   blog:
     title: "Blog"
