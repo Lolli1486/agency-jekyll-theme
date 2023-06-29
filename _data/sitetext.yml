@@ -97,7 +97,8 @@ en: &DEFAULT_EN
     people:
       - name: "Rebecca Caldwell"
         role: "ADMI President"
-        image: "C:\Users\lenas\agency-jekyll-theme-2\assets\img\team\caldwell.jpg"
+        image: /assets/img/team/caldwell.jpg
+      
         
 
         social:
