@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our ADMI 2024!
+    title: Welcome to ADMI 2024!
     text: It's Nice To Meet You
     button: Register
     buttonlink: "#registration"
