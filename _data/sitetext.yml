@@ -23,16 +23,16 @@ Resources:
     list:
       - title: "Student Resources"
         desc: "Important Links"
-        icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
+        #icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Presentations"
         desc: "Student/teacher presentations."
-        icon: fa-solid fa-person-chalkboard
+       # icon: fa-solid fa-person-chalkboard
       - title: "PDFs"
         desc: "All PDFs posted by staff."
-        icon: fa-solid fa-file-pdf
+       # icon: fa-solid fa-file-pdf
      - title: "Teacher Resources"
        desc: "Import dates/information."
-       icon: fa-solid fa-school
+       #icon: fa-solid fa-school
 
   blog:
     title: "Blog"
