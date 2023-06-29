@@ -23,13 +23,13 @@ resources:
     list:
       - title: "Student Resources"
         desc: "Important Links"
-        icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
+        icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Presentations"
         desc: "Student/teacher presentations."
-        icon: fa-solid fa-person-chalkboard
+        icon: fas fa-person-chalkboard
       - title: "PDF's"
         desc: "All PDF's posted by staff."
-        icon: fa-solid fa-file-pdf
+        icon: fas fa-file-pdf
 
 
   blog:
