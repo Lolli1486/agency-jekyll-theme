@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: See More
     buttonlink: "#registration"
 
-Resources:
+resources:
     title: "Resources"
     text: "Lorem ipsum"
     section: resources
