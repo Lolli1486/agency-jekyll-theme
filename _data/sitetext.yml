@@ -95,22 +95,15 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: board
     people:
+      - name: "Linda Hayden"
+        role: "ADMI Vice-President for Programs"
+        image: assets/img/team/5.jpg
+        social:
+          - url: https://linkedin.com/in/linda-hayden-5a8b424/
+            icon: fab fa-linkedin-in
       - name: "Rebecca Caldwell"
         role: "ADMI President"
         image: assets/img/team/3.jpg
-      
-        
-
-        social:
-          - url: caldwellr@wssu.edu
-            icon: fab fa-envelope-e
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
