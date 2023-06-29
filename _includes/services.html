@@ -1,19 +1,19 @@
-<!-- Blog -->
+<!-- Resources -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-  <section class="page-section" id="{{ site.data.sitetext[site.locale].services.section | default: "blog" }}">
+  <section class="page-section" id="{{ site.data.sitetext[site.locale].services.section | default: "resources" }}">
     <div class="container">
 	
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].blog.title | default: "Blog" }}</h2>
-          {% if site.data.sitetext[site.locale].blog.text %}
-		  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].blog.text }}</h3>
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].resources.title | default: "resources" }}</h2>
+          {% if site.data.sitetext[site.locale].resources.text %}
+		  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].resources.text }}</h3>
 		  {% endif %}
         </div>
       </div>
 	  
       <div class="row text-center">
-	  {% for service in site.data.sitetext[site.locale].blog.list %}
+	  {% for service in site.data.sitetext[site.locale].resources.list %}
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -28,20 +28,20 @@
     </div>
   </section>
 {% else %}
-<section class="page-section" id="{{ site.data.sitetext.blog.section | default: "blog" }}">
+<section class="page-section" id="{{ site.data.sitetext.resources.section | default: "resources" }}">
   <div class="container">
 
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.blog.title | default: "Blog" }}</h2>
-        {% if site.data.sitetext.blog.text %}
-    <h3 class="section-subheading text-muted">{{ site.data.sitetext.blog.text }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.resources.title | default: "Resources" }}</h2>
+        {% if site.data.sitetext.resources.text %}
+    <h3 class="section-subheading text-muted">{{ site.data.sitetext.resources.text }}</h3>
     {% endif %}
       </div>
     </div>
   
     <div class="row text-center">
-  {% for service in site.data.sitetext.blog.list %}
+  {% for service in site.data.sitetext.resources.list %}
       <div class="col-md-4">
         <span class="fa-stack fa-4x">
           <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -56,4 +56,4 @@
   </div>
 </section>
 {% endif %}
-<!-- End Blog -->
+<!-- End Resources -->
