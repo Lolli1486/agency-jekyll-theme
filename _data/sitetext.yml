@@ -16,23 +16,21 @@ en: &DEFAULT_EN
     button: See More
     buttonlink: "#registration"
 
-resources:
+ resources:
     title: "Resources"
     text: "Lorem ipsum"
-    section: resources
+    section: services
     list:
-      - title: "Student Resources"
-        desc: "Important Links"
-        icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
-      - title: "Presentations"
-        desc: "Student/teacher presentations."
-        icon: fas fa-person-chalkboard
-      - title: "PDFs"
-        desc: "All PDFs posted by staff."
-        icon: fas fa-file-pdf
-     - title: "Teacher Resources"
-       desc: "Import dates/information."
-       icon: fas fa-school
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
 
   blog:
     title: "Blog"
