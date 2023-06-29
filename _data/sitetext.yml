@@ -109,7 +109,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Alfred Watkins"
         role: "Vice President for Information"
-        image: assets/img/team/8.jpg 
+        image: assets/img/team/500x500.jpg 
         height: 200px;
 
 
