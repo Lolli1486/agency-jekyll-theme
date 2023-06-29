@@ -16,13 +16,13 @@ en: &DEFAULT_EN
     - title: "Blog"
       section: blog
     - title: "About Us"
-      section: about us
+      section: about
     - title: "History"
       section: history
     - title: "Board"
       section: board
     - title: "Contact Us"
-      section: contact us
+      section: contact
     - 
 en-US:
   <<: *DEFAULT_EN
