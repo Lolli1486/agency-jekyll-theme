@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our ADMI 2024!
+    title: Welcome to ADMI!
     text: It's Nice To Meet You
-    button: Register
+    button: See More
     buttonlink: "#registration"
 
   services:
-    title: "Services"
+    title: "Registration"
     text: "Welcome to ADMI 2024! We are excited for you to join us in Atlanta!"
     section: services
     list:
